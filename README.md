@@ -1,14 +1,14 @@
 # 171410066
 
 **Asep Bambang Kurniawan**
- 
- 
-:e-mail: bamszaaim@gmail.com
 
+:e-mail: bamszaaim@gmail.com
 
 :telephone: +6281220870130
 
-#Courses
+
+# Courses
 
 **Informatika IV A**
+
 **Basis Data Lanjut**

@@ -11,4 +11,4 @@
 
 **Informatika IV A**
 
-**Basis Data Lanjut**
+**Sistem Basis Data Lanjut**

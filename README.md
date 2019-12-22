@@ -11,9 +11,8 @@
 
 **Informatika IV A**
 
-**Isi Folder**
-
-**SBDL**
+**Isi Folder**\
+**SBDL**\
   *Tugas Besar*
 
 
@@ -21,7 +20,6 @@
 
 **Informatika V A**
 
-**Isi Folder**
-
-**Teknik Kompilasi**
+**Isi Folder**\
+**Teknik Kompilasi**\
   *Tugas*

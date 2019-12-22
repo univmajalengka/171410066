@@ -13,7 +13,7 @@
 
 **Isi Folder**
 **SBDL**
--Tugas Besar
+  *Tugas Besar*
 
 **Teknik Kompilasi**
--Tugas
+  *Tugas*

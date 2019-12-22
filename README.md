@@ -9,6 +9,6 @@
 
 # Courses
 
-**Informatika IV A**
+**Informatika V A**
 
-**Sistem Basis Data Lanjut**
+**Teknik Kompilasi**

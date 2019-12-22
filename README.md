@@ -11,4 +11,9 @@
 
 **Informatika V A**
 
+**Isi Folder**
+**SBDL**
+  -Tugas Besar
+
 **Teknik Kompilasi**
+  -Tugas
